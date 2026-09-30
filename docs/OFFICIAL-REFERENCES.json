@@ -1,0 +1,38 @@
+[
+  [
+    "Terraform documentation",
+    "https://developer.hashicorp.com/terraform/docs"
+  ],
+  [
+    "Configuration language",
+    "https://developer.hashicorp.com/terraform/language"
+  ],
+  [
+    "CLI reference",
+    "https://developer.hashicorp.com/terraform/cli"
+  ],
+  [
+    "Terraform Registry",
+    "https://registry.terraform.io/"
+  ],
+  [
+    "Provider development",
+    "https://developer.hashicorp.com/terraform/plugin"
+  ],
+  [
+    "HCP Terraform",
+    "https://developer.hashicorp.com/terraform/cloud-docs"
+  ],
+  [
+    "Terraform Enterprise",
+    "https://developer.hashicorp.com/terraform/enterprise"
+  ],
+  [
+    "Testing",
+    "https://developer.hashicorp.com/terraform/language/tests"
+  ],
+  [
+    "Stacks",
+    "https://developer.hashicorp.com/terraform/language/stacks"
+  ]
+]

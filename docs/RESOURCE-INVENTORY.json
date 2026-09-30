@@ -1,0 +1,5 @@
+{
+  "Language-Constructs": "Terraform-Block|Provider-Block|Resource-Block|Data-Block|Module-Block|Variable-Block|Output-Block|Locals-Block|Lifecycle-Block|Check-Block|Import-Block|Moved-Block|Removed-Block|Ephemeral-Block|Action-Block",
+  "Execution-Concepts": "Resource-Address|Resource-Instance|Dependency-Graph|Plan|State|Backend|Lock|CLI-Workspace|Provider-Configuration|Module-Instance",
+  "Cloud-Service-Patterns": "Identity|Network|Subnet|Route|Firewall|Compute|Load-Balancer|Object-Storage|Database|Cluster|DNS|Certificate|Secret|Monitoring"
+}
